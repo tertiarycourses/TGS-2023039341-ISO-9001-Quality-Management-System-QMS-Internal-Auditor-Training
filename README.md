@@ -1,14 +1,28 @@
-# ISO 9001 QMS Internal Auditor Training
+# ISO 9001 Quality Management System (QMS) Internal Auditor Training
 
-[![WSQ](https://img.shields.io/badge/WSQ-TGS--2023039341-1447A6)](https://www.tertiarycourses.com.sg/wsq-iso-9001-quality-management-system-qms-internal-auditor-training.html)
-[![Release](https://img.shields.io/badge/release-v9.0-12B886)](#courseware)
-[![Duration](https://img.shields.io/badge/duration-2%20days%20%7C%2016%20hours-7C3AED)](#course-structure)
+Complete WSQ courseware for risk-based ISO 9001 internal audit planning, evidence evaluation, audit findings, corrective action, reporting, procedure updates and follow-up.
 
-Complete courseware for **ISO 9001 Quality Management System (QMS) Internal Auditor Training**, course code **TGS-2023039341**. The package is designed for Tertiary Infotech Academy and covers risk-based audit planning, evidence evaluation, audit findings, corrective action, reporting, procedure updates and follow-up.
-
-[View the official course page](https://www.tertiarycourses.com.sg/wsq-iso-9001-quality-management-system-qms-internal-auditor-training.html)
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2023039341` |
+| Programme | WSQ |
+| Duration | 2 days · 16 hours, plus a 1-hour Written Assessment and a 1-hour Case Study |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-iso-9001-quality-management-system-qms-internal-auditor-training.html) |
+| Funding | Up to 70% course-fee funding for eligible learners. Eligibility and terms apply; the course page states funding validity through 26 October 2027. |
+| Courseware release | v9.0 |
 
 ![Courseware cover](screenshot.png)
+
+## About the course
+
+Learners plan and run a risk-based internal audit programme against ISO 9001:2015 (with Amendment 1:2024) using ISO 19011 auditing guidance, then evaluate evidence, write findings, drive corrective action and verify follow-up through eight applied activities.
+
+## Learning outcomes
+
+- **LO1:** Conduct ISO 9001 internal audit activities using methodologies that ensure organisational compliance.
+- **LO2:** Analyse audit findings to identify process inefficiencies, non-compliance issues and areas for improvement.
+- **LO3:** Propose actionable improvement plans to mitigate identified risks and non-compliance issues.
+- **LO4:** Implement updated audit procedures following changes in internal compliance standards or external regulatory guidelines.
 
 ## Courseware
 
@@ -42,7 +56,7 @@ Every activity is self-contained in its own numbered folder with:
 | [07 — Present an Audit Report and Improvement Priorities](activities/07-present-an-audit-report-and-improvement-priorities/) | Audit report, priority matrix and closing-meeting brief |
 | [08 — Update Audit Procedures and Verify Follow-Up](activities/08-update-audit-procedures-and-verify-follow-up/) | Change impact, controlled procedure update and follow-up decision |
 
-## Course structure
+## Topics covered
 
 1. Introduction to Audit Activities and Compliance Methodologies
 2. Analysis and Interpretation of Audit Results
@@ -57,9 +71,9 @@ The release uses **ISO 9001:2015 with Amendment 1:2024** as the current QMS requ
 
 Content was strengthened using the official course listing and curriculum references from [TUV SUD Academy](https://www.tuvsud.com/en-sg/store/academy-sg/sectors/management-systems/0001-iso-9001-2015-internal-auditor), [Singapore Quality Institute](https://www.sqi.org.sg/courses/apply-iso-9001-quality-management-system/), [ISO 9001](https://www.iso.org/standard/62085.html) and [ISO 19011](https://www.iso.org/standard/82411.html).
 
-## Confidentiality
+## Public and private distribution boundary
 
-Question papers, answer keys, learner submissions and assessment records must not be committed to this repository. The `assessment/` directory and local publication credentials are excluded through `.gitignore`.
+This repository publishes the slide deck, Learner Guide, Lesson Plan and activities. Question papers, answer keys, the Facilitator Guide and Assessment Plan, learner submissions, assessment records, source references and publication credentials are never committed; they are distributed privately through Tertiary Infotech systems and excluded through `.gitignore`.
 
 ## Provider
 
